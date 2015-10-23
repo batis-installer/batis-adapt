@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Powder Toy
+Comment=Physics sandbox game
+MimeType=application/vnd.powdertoy.save;
+NoDisplay=true
+Exec={{INSTALL_DIR}}/powder open %f

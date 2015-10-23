@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Powder Toy
+Comment=Physics sandbox game
+MimeType=x-scheme-handler/ptsave;
+NoDisplay=true
+Exec={{INSTALL_DIR}}/powder ptsave %u
