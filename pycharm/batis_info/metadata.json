@@ -4,9 +4,5 @@
   "icon": "bin/pycharm.png",
   "commands": [
     {"name": "charm", "target": "batis_info/launcher.py"}
-  ],
-  "system_packages": [
-    {"package_manager": "apt-get", "packages": ["openjdk-7-jre"]}
-  ],
-  "dependencies_description": "Oracle JRE 1.6+ or OpenJDK 1.7+, Python"
+  ]
 }

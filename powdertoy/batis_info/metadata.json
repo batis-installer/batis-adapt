@@ -1,7 +1,6 @@
 {
   "name": "Powder Toy",
   "byline": "Physics sandbox game",
-  "icon": "batis_info/icons/hicolor/32x32/mimetypes/application-vnd.powdertoy.save.png",
-  "system_packages": null
+  "icon": "batis_info/icons/hicolor/32x32/mimetypes/application-vnd.powdertoy.save.png"
 }
 
