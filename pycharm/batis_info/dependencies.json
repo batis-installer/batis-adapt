@@ -1,0 +1,6 @@
+{
+  "system_packages": [
+    {"package_manager": "apt-get", "packages": ["openjdk-7-jre"]}
+  ],
+  "description": "Oracle JRE 1.6+ or OpenJDK 1.7+, Python"
+}
