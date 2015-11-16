@@ -1,7 +1,7 @@
 {
   "name": "PyCharm",
   "byline": "Develop with pleasure!",
-  "icon": "bin/pycharm.png",
+  "icon_file": "bin/pycharm.png",
   "commands": [
     {"name": "charm", "target": "batis_info/launcher.py"}
   ],
