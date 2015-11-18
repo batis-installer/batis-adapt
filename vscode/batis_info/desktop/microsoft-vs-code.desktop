@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Visual Studio Code
+Icon={{INSTALL_DIR}}/resources/app/resources/linux/vscode.png
+Exec="{{INSTALL_DIR}}/Code" %f
+Comment=Build and debug modern web and cloud applications
+Categories=Development;IDE;
+Terminal=false
