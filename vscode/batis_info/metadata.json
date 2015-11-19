@@ -1,4 +1,5 @@
 {
+  "format_version": [1, 0],
   "name": "Visual Studio Code",
   "byline": "Build and debug modern web and cloud applications",
   "icon_file": "resources/app/resources/linux/vscode.png",
