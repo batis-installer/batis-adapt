@@ -15,8 +15,8 @@ import time
 # see com.intellij.idea.SocketLock for the server side of this interface
 
 # Modifications for Batis: don't hardcode these paths
-RUN_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)),
-                        'bin', 'pycharm.sh')
+_pycharm_install_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+RUN_PATH = os.path.join(_pycharm_install_dir, 'bin', 'pycharm.sh')
 CONFIG_PATH = os.path.expanduser(u'~/.PyCharm40/config')
 # ------------------
 
