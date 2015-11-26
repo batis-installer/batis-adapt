@@ -17,7 +17,7 @@ import time
 # Modifications for Batis: don't hardcode these paths
 _pycharm_install_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 RUN_PATH = os.path.join(_pycharm_install_dir, 'bin', 'pycharm.sh')
-CONFIG_PATH = os.path.expanduser(u'~/.PyCharm40/config')
+CONFIG_PATH = os.path.expanduser(u'~/.PyCharm50/config')
 # ------------------
 
 args = []
